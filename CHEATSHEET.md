@@ -1,5 +1,7 @@
 # VPC Endpoints — Cheat Sheet
 
+> 📚 **Part 9 of 9** in my [AWS VPC Series](https://github.com/jasahorro/AWS-VPC-Series) · ← Previous: [Access S3 from a VPC](https://github.com/jasahorro/Access-S3-from-a-VPC/blob/main/CHEATSHEET.md)
+
 Lesson notes for reviewing later. The project write-up is in [README.md](README.md). This is the **final project of the NextWork networking series**.
 
 The first half of this project (EC2 Instance Connect, access keys, `aws configure`, `aws s3` commands) repeats the previous project, so those notes are in the [Access-S3-from-a-VPC cheat sheet](https://github.com/jasahorro/Access-S3-from-a-VPC/blob/main/CHEATSHEET.md). This sheet focuses on what's new.
